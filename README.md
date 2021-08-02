@@ -1,9 +1,6 @@
 # Python Data Visualization Workshop
 Repository for the 2021 Summer Python Visualization Workshop at Northwestern University.
 
-conda create -n python_viz_env pandas numpy matplotlib jupyterlab
-conda activate python_viz_env
-
 The workshop is divided into four parts. Part 1 is about the fundamental syntax of matplotlib. Part 2 focuses on basic plotting. Part 3 delves deep into scatter plot. Part 4 is about histograms. The data is contained in the data folder of this repository, be sure to download the entire repository.
 
 ## Note on Versioning
