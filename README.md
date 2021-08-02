@@ -31,7 +31,7 @@ After this, you can download the entire repository with the "clone or download" 
 
 The very last part of the workshop cannot be run on Colab, so it may be convenient to run the entire workshop locally.. 
 
-## Exercises
+## Solutions to Exercises
 
 You can find the solutions to the exercises in the following links:
 
