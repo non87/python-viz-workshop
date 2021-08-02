@@ -27,7 +27,7 @@ To activate the environment, you can use
 
 `conda activate python_viz_env`
 
-After this, you can download the entire repository with the "clone or download" green button on the right-upper corner of the [repository homepage](https://github.com/non87/python-viz-workshop). Finally, you can use Jupyter Notebook or Jupyter Lab (both included with Ananconda) to open the local versions of the notebooks.
+After this, you can download the entire repository with the "downloand code" green button on the right-upper corner of the [repository homepage](https://github.com/non87/python-viz-workshop). Finally, you can use Jupyter Notebook or Jupyter Lab (both included with Anaconda) to open the local versions of the notebooks.
 
 The very last part of the workshop cannot be run on Colab, so it may be convenient to run the entire workshop locally.. 
 
