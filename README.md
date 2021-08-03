@@ -1,7 +1,11 @@
 # Python Data Visualization Workshop
 Repository for the 2021 Summer Python Visualization Workshop at Northwestern University.
 
-The workshop is divided into four parts. Part 1 is about the fundamental syntax of matplotlib. Part 2 focuses on basic plotting. Part 3 delves deep into scatter plot. Part 4 is about histograms. The data is contained in the data folder of this repository, be sure to download the entire repository.
+The workshop is divided into four parts. Part 1 is about the fundamental syntax of matplotlib. Part 2 focuses on basic plotting. Part 3 delves deeper in scatter plots. Part 4 is about histograms. 
+
+Part 5 is *not* a Jupyter Notebooks and therefore cannot be run on a Colab. Ideally, it should be run on your Integrated Development Environment (IDE), but the command line will also do. In any case, Part 5 requires `matplotlib` and `pandas` to run -- see instructions below for installing.
+
+The data is contained in the data folder of this repository, be sure to download the entire repository.
 
 ## Note on Versioning
 
