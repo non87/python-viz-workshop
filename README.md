@@ -5,7 +5,7 @@ The workshop is divided into four parts. Part 1 is about the fundamental syntax 
 
 Part 5 is *not* a Jupyter Notebooks and therefore cannot be run on a Colab. Ideally, it should be run on your Integrated Development Environment (IDE), but the command line will also do. In any case, Part 5 requires `matplotlib` and `pandas` to run -- see instructions below for installing.
 
-The data is contained in the data folder of this repository, be sure to download the entire repository.
+The data is contained in the data folder of this repository, but you do not need to download the entire repository to load the data.
 
 ## Note on Versioning
 
