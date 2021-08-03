@@ -52,6 +52,7 @@ so that they fit in the figure window while still preserving, as best they can,
 the logical layout requested by the user.
 '''
 fig, ax = plt.subplots(nrows=2, ncols=1, figsize= (10,8), constrained_layout=True)
+fig.show()
 fig.suptitle("Obama Vs Reagan", fontsize=24)
 
 # Obama call as in the workshop
@@ -94,6 +95,8 @@ fig.subplots_adjust(
 
 '''
 Check dimensions of the resulting file:
-dpi * figure dimension
+dpi * figure dimension. 
+Strategy: do not change the size of the figure, change dpi
 '''
+fig.savefig('my_figure_at_100.png', dpi=100)
 fig.savefig('my_figure_at_200.png', dpi=200)
